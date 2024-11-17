@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abdul Khaliq Khaliqyar - Environmental and Humanitarian Professional</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #2c3e50;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        header p {
+            margin: 5px 0 0;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: 20px auto;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        section h2 {
+            color: #2c3e50;
+            margin-top: 0;
+        }
+        .contact-info {
+            background-color: #e9ecef;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #2c3e50;
+            color: #fff;
+        }
+        a {
+            color: #2980b9;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Abdul Khaliq Khaliqyar</h1>
+        <p>Environmental and Humanitarian Professional</p>
+    </header>
+    <section>
+        <h2>About Me</h2>
+        <p>My name is Abdul Khaliq Khaliqyar, an environmental and humanitarian professional from Badinzo Village, Sawkai District, Kunar Province, Afghanistan. With an educational background in natural sciences, I have contributed to significant environmental and social welfare projects throughout my career.</p>
+    </section>
+    <section>
+        <h2>Professional Achievements</h2>
+        <h3>Environmental Protection Director</h3>
+        <ul>
+            <li><strong>Nuristan Province:</strong> Successfully introduced Nuristan as a National Park to the Afghan government and international organizations (IUCN, GEF, GCF), achieving official designation in 2020.</li>
+            <li><strong>Kunar Province:</strong> Declared Shamandok, Dangam, and Shigal areas as protected zones in 2021, marking a milestone in Afghanistan's environmental conservation efforts.</li>
+        </ul>
+        <h3>Field Officer - DACAAR</h3>
+        <p>Worked on a Food Security project to improve local livelihoods and ensure sustainable support for vulnerable communities.</p>
+        <h3>Districts Capacity Safety Net Officer</h3>
+        <p>Contributed to the Afghan Social Protection Program (World Bank-funded) to enhance social welfare and safety nets for communities in need.</p>
+    </section>
+    <section>
+        <h2>Personal Traits and Interests</h2>
+        <p>Known for honesty, punctuality, and teamwork, I enjoy tackling new challenges with a creative and solution-driven mindset. I am also a Pashto-language writer, poet, and social activist, dedicated to making a positive impact in my community.</p>
+    </section>
+    <section>
+        <h2>Contact Information</h2>
+        <div class="contact-info">
+            <p><strong>Email:</strong> <a href="mailto:Khaliqyar.safi2015@gmail.com">Khaliqyar.safi2015@gmail.com</a></p>
+            <p><strong>Phone:</strong> +93775021988 / +93707422366</p>
+        </div>
+    </section>
+    <footer>
+        <p>&copy; 2024 Abdul Khaliq Khaliqyar. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
